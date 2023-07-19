@@ -1,0 +1,42 @@
+.topic {
+    width: 260px;
+    box-shadow: 0px 0px 8px rgba(0,0,0,.6);
+    background-color: #f7dba7;
+}
+
+.topic img {
+    width: 100%;
+    margin-bottom: 5px;
+    background-color: #cae9ff;
+}
+
+.sec-part {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 5px;
+    margin-top: -12px;
+}
+
+.topic p {
+    font-weight: bold;
+}
+
+.topic button {
+    border: none;
+    padding: 7px 25px;
+    font-weight: bold;
+    border-radius: 8px;
+    background-color: #7D3C98;
+    color: #E5E8E8;
+    cursor: pointer;
+    transition: background-color 0.25s ease-out;
+}
+
+.topic button:hover {
+    /* background-color: #BB8FCE;
+    color: white; */
+    color: white;
+    background-color: #9cafb7;
+    
+}

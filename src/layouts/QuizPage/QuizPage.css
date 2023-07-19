@@ -1,0 +1,13 @@
+.quiz-page {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: #251605;
+}
+
+.quiz-page h2 {
+    margin-bottom: 30px;
+    padding-top: 30px;
+    color: white;
+}

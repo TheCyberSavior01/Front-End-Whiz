@@ -1,0 +1,12 @@
+.main {
+    display: flex;
+    gap: 25px;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-wrapper {
+    padding-top: 90px;
+    height: 80vh;
+    background-color: #251605;
+}

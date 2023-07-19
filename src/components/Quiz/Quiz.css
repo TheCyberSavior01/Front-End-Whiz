@@ -1,0 +1,34 @@
+.quiz {
+    box-shadow: 0px 0px 8px rgba(0,0,0,.6);
+    padding: 20px 20px 30px 20px;
+    width: 700px;
+    margin-bottom: 25px;
+    border-radius: 8px;
+    background-color: #cae9ff;
+    color: black;
+}
+
+.question {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.radio-inputs {
+    display: grid;
+    gap: 10px;
+    grid-template-columns: 1fr 1fr;
+}
+
+.single-radio-input {
+    border: 1px solid #586994;
+    padding: 20px 0;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: #f7dba7;
+    transition: background-color .45s ease-out;
+}
+
+.single-radio-input:hover {
+    background-color: #7D3C98;
+    color: white;
+}
