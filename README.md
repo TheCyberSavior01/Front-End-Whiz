@@ -36,3 +36,6 @@ Follow these simple steps to get Front-End Whiz up and running on your local mac
 2. Selecting the topic will take you to the quiz page of that topic.
 3. Read the question and select the most appropriate answer from the given options.
 4. After making your selection, Front-End Whiz will instantly display a toast notification informing you whether your answer was correct or     not.
+
+### Technology Used:
+HTML, CSS, JavaScript, React, React Router, Toast npm package, Programming Hero API
